@@ -1,6 +1,6 @@
 # Mars-Forum
-Mars Forum Code.
-Front-End: ThinkPHP & Ajax 
-Back-End: BootStrap & AmazeUI
-Data: Mysql & Json
-Launched in AWS cloud. URL:http://www.marspang.top/MarsForum/Login.php
+Mars Forum Code. <br>
+Front-End: ThinkPHP & Ajax <br>
+Back-End: BootStrap & AmazeUI <br>
+Data: Mysql & Json <br>
+Launched in AWS cloud. URL:http://www.marspang.top/MarsForum/Login.php <br>
