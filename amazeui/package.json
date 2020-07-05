@@ -69,7 +69,7 @@
     "hbs": "^3.0.1",
     "less-middleware": "^2.0.1",
     "lodash": "^3.9.3",
-    "morgan": "~1.0.0",
+    "morgan": "~1.10.0",
     "run-sequence": "^1.1.0",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
