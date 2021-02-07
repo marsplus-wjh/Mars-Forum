@@ -65,7 +65,7 @@
     "gulp-uglify": "latest",
     "gulp-util": "^3.0.4",
     "gulp-zip": "^3.0.2",
-    "handlebars": "^3.0.3",
+    "handlebars": "^4.7.6",
     "hbs": "^3.0.1",
     "less-middleware": "^2.0.1",
     "lodash": "^3.9.3",
